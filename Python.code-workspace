@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"statusBar.background": "#60008d",
+		},
+		"workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+		"files.defaultLanguage": "python",
+		"editor.autoClosingBrackets": "always",
+	}
+}

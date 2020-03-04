@@ -1,0 +1,5 @@
+print("Digite dois numeros")
+num1 = int(input("Numero 1 = "))
+num2 = int(input("Numero 2 = "))
+print(f"A soma entre {num1} e {num2} é igual a {num1+num2}")
+print("A soma entre {} e {} é igual a {}".format(num1, num2, num1 + num2))
