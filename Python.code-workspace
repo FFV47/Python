@@ -8,8 +8,9 @@
 		"workbench.colorCustomizations": {
 			"statusBar.background": "#60008d",
 		},
-		"workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+		"workbench.colorTheme": "Monokai Pro (Filter Octagon)",
 		"files.defaultLanguage": "python",
 		"editor.autoClosingBrackets": "always",
+		"editor.suggestSelection": "recentlyUsedByPrefix",
 	}
 }
